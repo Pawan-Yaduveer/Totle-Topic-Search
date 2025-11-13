@@ -1,0 +1,45 @@
+:root {
+  --primary-bg: #f0f8ff;
+  --card-bg: #ffffff;
+  --text-primary: #1d3557;
+  --text-secondary: #457b9d;
+  --accent-color: #0077b6;
+  --border-color: #dbe9f5;
+
+  --bg-accent-1: #e6f3ff;
+  --bg-accent-2: #f6fbff;
+  
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.02), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow-md: 0 4px 6px -1px rgba(29, 53, 87, 0.05), 0 2px 4px -1px rgba(29, 53, 87, 0.03);
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  background:
+    radial-gradient(1200px 600px at -10% -10%, var(--bg-accent-1), transparent 60%),
+    radial-gradient(1000px 600px at 110% 0%, var(--bg-accent-2), transparent 60%),
+    var(--primary-bg);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 48px 20px 56px;
+  width: 100%;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+::selection {
+  background: rgba(0, 119, 182, 0.18);
+}
