@@ -67,9 +67,10 @@ Edge cases handled:
 
 - **GitHub Repository Link:** https://github.com/Pawan-Yaduveer/Totle-Topic-Search
 - **2-Minute Video Explanation:** /demo.mp4
+- **Video Goole Drive Link:**  https://drive.google.com/file/d/1yG371Z07pAwTQZThPurzHg23IhrquUK0/view?usp=sharing
 
 ### Embedded Video
 
 <video src="/demo.mp4" controls width="720" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.08);"></video>
 
-If the embedded player doesn’t load, open the video directly: /demo.mp4
+
