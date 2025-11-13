@@ -64,10 +64,10 @@ Edge cases handled:
 
 ## Links
 
-
+- **Live Link:** https://pawan-yaduveer.github.io/Totle-Topic-Search
 - **GitHub Repository Link:** https://github.com/Pawan-Yaduveer/Totle-Topic-Search
 - **2-Minute Video Explanation:** /demo.mp4
-- **Video Goole Drive Link:**  https://drive.google.com/file/d/1yG371Z07pAwTQZThPurzHg23IhrquUK0/view?usp=sharing
+- **Goole Drive Link:**  https://drive.google.com/file/d/1yG371Z07pAwTQZThPurzHg23IhrquUK0/view?usp=sharing
 
 ### Embedded Video
 
