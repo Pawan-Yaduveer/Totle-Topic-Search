@@ -8,7 +8,7 @@ Follow these steps to run the application locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your-GitHub-Repo-Link-Here]
+    git clone https://github.com/Pawan-Yaduveer/Totle-Topic-Search
     ```
 2.  **Navigate to the Directory:**
     ```bash
@@ -68,4 +68,8 @@ Edge cases handled:
 - **GitHub Repository Link:** https://github.com/Pawan-Yaduveer/Totle-Topic-Search
 - **2-Minute Video Explanation:** /demo.mp4
 
-Optional: If you prefer to include the video file in the repo, add it under `public/` (e.g., `public/demo.mp4`) and link it as `/demo.mp4`.
+### Embedded Video
+
+<video src="/demo.mp4" controls width="720" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.08);"></video>
+
+If the embedded player doesn’t load, open the video directly: /demo.mp4
